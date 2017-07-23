@@ -5,7 +5,6 @@ Lab 2, forking and waiting
 //  lab2
 //
 //  Created by Monica Andrade on 7/20/17.
-// 
 //
 
 #include <unistd.h>
