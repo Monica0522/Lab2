@@ -35,7 +35,7 @@ int main(int argc, char * argv[]) {
         }
         else
         {
-            pid = wait(NULL);
+             wait(NULL);
         }
     }
     system("ps -H");
